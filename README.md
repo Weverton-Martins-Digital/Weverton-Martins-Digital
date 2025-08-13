@@ -21,7 +21,7 @@ Olá, me chamo Weverton Martins, tenho 17 anos e sou nascido no Espírito Santo.
 <div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weverton-Martins-Digital&show_icons=true&theme=nightowl)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weverton-Martins-Digital&layout=donut&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weverton-Martins-Digital&layout=donut&theme=nightowl)](https://github.com/Weverton-Martins-Digital/github-readme-stats)
 </div>
 
 ### Contatos
