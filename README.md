@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** **`Desenvolvedor de Games`** **`Desenvolvedor Web`**
 
-Olá, me chamo Weverton Martins, tenho 17 anos e sou nascido no Espírito Santo. Estou cursando o ensino médio. Atualmente, estou pensando em cursar Análise e Desenvolvimento de Sistemas em Vitória. Sou apaixonada por tecnologia e compartilho meu conhecimento por meio do meu canal no TikTok "Weverton", onde ensino a criar diversos projetos, sistemas e outros com a intenção de ajudar todos que querem entrar nessa área.
+Olá, me chamo Weverton Martins, tenho 17 anos e sou nascido no Espírito Santo. Estou cursando o ensino médio. Atualmente, estou pensando em cursar Análise e Desenvolvimento de Sistemas em Vitória. Sou apaixonado por tecnologia e compartilho meu conhecimento por meio do meu Github, onde ensino a criar diversos projetos, sistemas e outros com a intenção de ajudar todos que querem entrar nessa área.
 
 ---
 
